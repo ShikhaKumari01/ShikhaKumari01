@@ -24,8 +24,8 @@
 
 <p align="left">
 <a href="https://twitter.com/shikhadas199334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikhadas199334" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shikha-kumari-0b58a6257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shikha-kumari-0b58a6257/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/developer_shikha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/developer_shikha01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shikha-kumari-0b58a6257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shikha-kumari-0b58a6257" height="30" width="40" /></a>
+<a href="https://instagram.com/developer_shikha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_shikha01" height="30" width="40" /></a>
 </p>
 <br>
 
